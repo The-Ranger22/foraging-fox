@@ -2,7 +2,9 @@
 
 A minesweeper clone where you are a fox foraging the mountain growth for the fabeled Star Root. 
 
-## Development Team
+![A screenshot of the Foraging Fox main screen](./docs/img/screenshot.png)
+
+## Development Team - Wacky Glass Factory
 
 | Member | Social | Role |
 | ------ | ------ | ---- |
@@ -33,7 +35,15 @@ uv venv && uv pip install -r pyproject.toml
 source .venv/bin/activate
 
 # Windows
+.venv\Scripts\activate.bat
 ```
+
+4. Run the game!
+
+```bash
+python -m src
+```
+
 
 ## Disclosure
 

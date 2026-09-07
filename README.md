@@ -14,7 +14,7 @@ A minesweeper clone where you are a fox foraging the mountain growth for the fab
 
 ## Install Guide
 
-If you don't want to download the `.exe` from the github releases, you can setup the project by following the steps below. This assumes that you have [uv](https://docs.astral.sh/uv/) installed and some familiarity with Python.
+You can setup the project by following the steps below. This assumes that you have [uv](https://docs.astral.sh/uv/) installed and some familiarity with Python.
 
 1. Clone the repo
 
@@ -41,7 +41,7 @@ source .venv/bin/activate
 4. Run the game!
 
 ```bash
-python -m src
+python main.py
 ```
 
 

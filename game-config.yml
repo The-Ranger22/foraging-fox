@@ -1,0 +1,27 @@
+resolution:
+  width: 800
+  height: 600
+assets:
+  sprites:
+    directory: "./assets/img"
+    grid_tiles: "groundTilesPlusFog-Sheet.png"
+    star_root: ""
+
+  audio:
+    directory: "./assets/sound"
+    fog_click: "effects/fog.mp3"
+    
+      
+difficulties:
+  easy:
+    grid_size:
+      width: 8
+      height: 8
+    num_mines: 3
+  medium:
+    grid_size:
+      width: 16
+      height: 16
+    num_mines: 8
+  
+    

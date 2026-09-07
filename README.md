@@ -1,6 +1,6 @@
 # Foraging Fox
 
-A minesweeper clone where you are a fox foraging the mountain growth for the fabeled Star Root. 
+A minesweeper clone where you are a fox foraging the mountain growth for the fabeled Star Root. This is our first game jam we've ever done, and the first game we've ever made together. We learned a lot this game jam.
 
 ![A screenshot of the Foraging Fox main screen](./docs/img/screenshot.png)
 
@@ -8,9 +8,9 @@ A minesweeper clone where you are a fox foraging the mountain growth for the fab
 
 | Member | Social | Role |
 | ------ | ------ | ---- |
-| Levi (aka digitalbinary) | Matrix: levi@rooksoft.net | Programmer |
-| Matt R. | KentuckyFriedRice | Art Director |
-| Noah | | Music & Sound Design |
+| Levi (aka digitalbinary) | @levi:rooksoft.net | Programmer |
+| Matt | KentuckyFriedRice | Art Director |
+| Noah | [bluesky](https://bsky.app/profile/holdingforever.bsky.social) | Music & Sound Design |
 
 ## Install Guide
 
